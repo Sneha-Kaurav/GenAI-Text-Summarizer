@@ -41,33 +41,32 @@ Ideal for readers, researchers, students, or professionals who need quick, reada
 ## 📦 Setup Instructions
 
 ### 🔧 Local Installation
-```bash
+
 1. **Clone the repository**
 
 git clone https://github.com/your-username/text-url-summarizer.git
 cd text-url-summarizer
 
-2. ***Create a virtual environment***
+2. **Create a virtual environment**
 
 python -m venv .venv
 source .venv/bin/activate    # Windows: .venv\Scripts\activate
 
-3. ***Install dependencies***
+3. **Install dependencies**
 
 pip install -r requirements.txt
 
-4. ***Run the app***
+4. **Run the app**
 
 python app.py
 
 ## Deploy on Hugging Face Spaces
 
 This app is compatible with Hugging Face Spaces. To deploy:
+1.Create a new Gradio Space
 
-Create a new Gradio Space
-
-Upload:
-
+2.Upload:
+<ul>
 <li>app.py</li>
 
 <li>url_input.py</li>
@@ -76,8 +75,8 @@ Upload:
 
 <li>(Optional) README.md</li>
 </ul>
-<li>Click "Create Space".<li>
-</ol> 
+3.Click "Create Space".
+
 
 
 

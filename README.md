@@ -60,6 +60,8 @@ pip install -r requirements.txt
 
 python app.py
 
+5. Open your browser and go to http://localhost:7860 to use the app.
+
 ## Deploy on Hugging Face Spaces
 
 This app is compatible with Hugging Face Spaces. To deploy:
@@ -78,8 +80,20 @@ This app is compatible with Hugging Face Spaces. To deploy:
 3.Click "Create Space".
 
 
+## Screenshots
 
 
-python app.py
+## Author
+<b> Sneha Kaurav </b>
+    AI Graduate, 2025 | Passionate about practical NLP and real-world ML applications
+    🔗 LinkedIn
+    🤗 Hugging Face
 
-5. Open your browser and go to http://localhost:7860 to use the app.
+## Future Improvements
+<ul>
+<li> Better boilerplate removal from websites (readability, lxml)</li>
+
+<li> Save/export summaries (copy/download)</li>
+
+<li> Multilingual support and detection</li>
+</ul>

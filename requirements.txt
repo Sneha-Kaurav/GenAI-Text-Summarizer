@@ -1,0 +1,14 @@
+gradio
+transformers
+diffusers
+ctransformers
+Pillow
+streamlit
+accelerate
+pypdf
+peft
+nltk
+newspaper3k
+lxml_html_clean
+requests
+bs4

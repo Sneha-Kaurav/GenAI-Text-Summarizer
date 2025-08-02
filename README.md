@@ -84,7 +84,7 @@ This app is compatible with Hugging Face Spaces. To deploy:
 
 
 ## Author
-<b> Sneha Kaurav </b>
+<b> Sneha Kaurav </b><br>
     AI Graduate, 2025 | Passionate about practical NLP and real-world ML applications
     🔗 LinkedIn
     🤗 Hugging Face

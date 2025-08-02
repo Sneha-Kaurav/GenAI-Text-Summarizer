@@ -3,6 +3,7 @@
 An intelligent NLP-based web app that summarizes long texts or online articles using Hugging Face's `distilBART` transformer model. Built with Gradio for an intuitive interface and deployed-ready for Hugging Face Spaces or local use.
 <br>
 <b> Try the Live App on Hugging Face Spaces: </b> 
+[![HF Spaces](https://img.shields.io/badge/HF-Spaces-blue?logo=HuggingFace&logoColor=white)](url:)
 
 ---
 

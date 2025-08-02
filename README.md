@@ -2,6 +2,7 @@
 
 An intelligent NLP-based web app that summarizes long texts or online articles using Hugging Face's `distilBART` transformer model. Built with Gradio for an intuitive interface and deployed-ready for Hugging Face Spaces or local use.
 
+** Try the Live App on Hugging Face Spaces]**: 
 ---
 
 ## Project Overview
@@ -44,7 +45,7 @@ Ideal for readers, researchers, students, or professionals who need quick, reada
 
 1. **Clone the repository**
 
-git clone https://github.com/your-username/text-url-summarizer.git
+ git clone https://github.com/Sneha-Kaurav/GenAI-Text-Summarizer.git
 cd text-url-summarizer
 
 2. **Create a virtual environment**

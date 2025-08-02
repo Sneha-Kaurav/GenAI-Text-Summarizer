@@ -41,23 +41,23 @@ Ideal for readers, researchers, students, or professionals who need quick, reada
 ## 📦 Setup Instructions
 
 ### 🔧 Local Installation
-
-1. **Clone the repository**
 ```bash
+1. **Clone the repository**
+
 git clone https://github.com/your-username/text-url-summarizer.git
 cd text-url-summarizer
 
 2. ***Create a virtual environment***
-```bash
+
 python -m venv .venv
 source .venv/bin/activate    # Windows: .venv\Scripts\activate
 
 3. ***Install dependencies***
-```bash
+
 pip install -r requirements.txt
 
 4. ***Run the app***
-```bash
+
 python app.py
 
 ## Deploy on Hugging Face Spaces

@@ -63,11 +63,11 @@ python app.py
 ## Deploy on Hugging Face Spaces
 
 This app is compatible with Hugging Face Spaces. To deploy:
-<ol>
-<li>Create a new Gradio Space</li>
 
-<li>Upload:</li>
-<ul>
+Create a new Gradio Space
+
+Upload:
+
 <li>app.py</li>
 
 <li>url_input.py</li>
